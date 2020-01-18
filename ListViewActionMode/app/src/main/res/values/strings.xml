@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListViewActionMode</string>
+
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Grapes</item>
+        <item>Kiwi</item>
+        <item>Banana</item>
+        <item>Cherries</item>
+    </string-array>
+</resources>
